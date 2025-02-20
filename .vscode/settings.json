@@ -5,7 +5,8 @@
     "ARMSTRON.C": "cpp",
     "unistd.h": "c",
     "__verbose_abort": "cpp",
-    "cstdio": "cpp"
+    "cstdio": "cpp",
+    "REV.C": "cpp"
   },
   "cSpell.enableFiletypes": ["!c"]
 }
