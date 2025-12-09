@@ -6,10 +6,10 @@
                 "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "D:/MinGW/bin/",
+            "compilerPath": "/usr/bin/gcc",
             "cStandard": "c99",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "macos-clang-arm"
         }
     ],
     "version": 4
